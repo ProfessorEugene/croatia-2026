@@ -5,14 +5,21 @@
       "type": "Feature",
       "geometry": {
         "coordinates": [
-          16.461604420928005,
-          43.50332160455003
+          16.461731208232045,
+          43.501896458638484
         ],
         "type": "Point"
       },
       "properties": {
+        "title": "Aleksandr & Anastasia Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-10",
+        "date-out": "2026-09-13",
         "guest": "Aleksandr & Anastasia",
-        "address": "Spinčićeva ul. 24"
+        "address": "Spinčićeva ul. 24, 21000, Split, Croatia",
+        "marker-color": "#312E81",
+        "marker-size": "medium",
+        "marker-symbol": "home"
       }
     }
   ]

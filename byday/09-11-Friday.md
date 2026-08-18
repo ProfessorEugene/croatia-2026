@@ -10,6 +10,11 @@ Arrivals into Split continue. Free time to settle in and explore Split's old tow
 * 20:30 - Taras arrives via flight LX8438
 * 22:50 - Kostiantyn & Tatiana arrive
 
+### Map
+
+[View Map Here](09-11-Friday.geojson)
+
+
 ### Accommodations
 
 * Aleksandr & Anastasia - [AirBnb at Spinčićeva ul. 24](https://maps.app.goo.gl/viEgzCAuVvVCLM6B6)

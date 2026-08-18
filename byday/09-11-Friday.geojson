@@ -1,0 +1,89 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.461731208232045,
+          43.501896458638484
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Aleksandr & Anastasia Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-10",
+        "date-out": "2026-09-13",
+        "guest": "Aleksandr & Anastasia",
+        "address": "Spinčićeva ul. 24, 21000, Split, Croatia",
+        "marker-color": "#312E81",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.470133485630654,
+          43.50300783359361
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Lenny Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-11",
+        "date-out": "2026-09-13",
+        "guest": "Lenny",
+        "address": "Put Trstenika 19, 21000, Split, Croatia",
+        "marker-color": "#ff00cc",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.44905567540879,
+          43.503423788405776
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Taras Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-11",
+        "date-out": "2026-09-13",
+        "guest": "Taras",
+        "address": "Ul. Vlahe Bukovca 10, 21000, Split, Croatia",
+        "marker-color": "#faff00",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.45604935767095,
+          43.50315846091432
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Kostiantyn & Tatiana Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-11",
+        "date-out": "2026-09-13",
+        "guest": "Kostiantyn & Tatiana",
+        "address": "Ul. Petra Hektorovića 40, 21000, Split, Croatia",
+        "marker-color": "#00f7ff",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    }        
+  ]
+}

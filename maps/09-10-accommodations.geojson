@@ -1,0 +1,21 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.456639,
+          43.503801
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "label": "Aleksandr & Anastasiia - AirBnb",
+        "address": "Spinčićeva ul. 24, 21000 Split, Croatia",
+        "mapLink": "https://maps.app.goo.gl/viEgzCAuVvVCLM6B6",
+        "date": "2026-09-10"
+      }
+    }
+  ]
+}

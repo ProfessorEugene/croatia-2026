@@ -13,6 +13,10 @@ More arrivals into Split, plus group activities in town. Jakov's tip: for a Satu
 * 23:10 - Ken & Betsy arrive
 * 23:10 - Vinay arrives
 
+### Map
+
+[View Map Here](09-12-Saturday.geojson)
+
 ### Accommodations
 
 * Aleksandr & Anastasia - [AirBnb at Spinčićeva ul. 24](https://maps.app.goo.gl/viEgzCAuVvVCLM6B6)

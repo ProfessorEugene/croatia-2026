@@ -1,0 +1,19 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.461604420928005,
+          43.50332160455003
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "guest": "Aleksandr & Anastasia",
+        "address": "Spinčićeva ul. 24"
+      }
+    }
+  ]
+}

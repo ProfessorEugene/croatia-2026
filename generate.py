@@ -8,6 +8,7 @@ from datetime import date, timedelta, datetime
 
 DATA_DIR = os.path.join(os.path.dirname(__file__), "data")
 OUTPUT_DIR = os.path.join(os.path.dirname(__file__), "byday")
+MAPS_DIR = os.path.join(os.path.dirname(__file__), "maps")
 
 
 
@@ -75,6 +76,8 @@ def generate_markdown(d, active_hotels, arrivals, departures, day_transits, plac
     lines.append("")
 
     lines.append("### Map")
+    lines.append("")
+    lines.append(f"[Download GeoJSON](../maps/{filename_base}.geojson)")
     lines.append("")
     lines.append("```geojson")
     lines.append(json.dumps(geojson, indent=2, ensure_ascii=False) if geojson else '{"type":"FeatureCollection","features":[]}')
@@ -156,6 +159,7 @@ def main():
         all_dates.add(date.fromisoformat(t["date"]))
 
     os.makedirs(OUTPUT_DIR, exist_ok=True)
+    os.makedirs(MAPS_DIR, exist_ok=True)
 
     for d in sorted(all_dates):
         day_name = d.strftime("%A")
@@ -186,7 +190,7 @@ def main():
 
         with open(f"{OUTPUT_DIR}/{filename_base}.md", "w", encoding="utf-8") as f:
             f.write(md)
-        with open(f"{OUTPUT_DIR}/{filename_base}.geojson", "w", encoding="utf-8") as f:
+        with open(f"{MAPS_DIR}/{filename_base}.geojson", "w", encoding="utf-8") as f:
             json.dump(geojson, f, indent=2, ensure_ascii=False)
 
         print(f"Generated {filename_base} ({len(active_hotels)} hotels, "

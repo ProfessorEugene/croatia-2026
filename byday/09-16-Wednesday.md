@@ -14,6 +14,8 @@ Consider basing at Aminess Bellevue Village for beach access, or a quiet guestho
 
 ### Map
 
+[Download GeoJSON](../maps/09-16-Wednesday.geojson)
+
 ```geojson
 {
   "type": "FeatureCollection",

@@ -10,6 +10,8 @@ _No scheduled events_
 
 ### Map
 
+[Download GeoJSON](../maps/09-15-Tuesday.geojson)
+
 ```geojson
 {
   "type": "FeatureCollection",

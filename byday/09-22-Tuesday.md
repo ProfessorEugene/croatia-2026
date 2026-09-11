@@ -13,6 +13,8 @@ Final departures from Dubrovnik.
 
 ### Map
 
+[Download GeoJSON](../maps/09-22-Tuesday.geojson)
+
 ```geojson
 {
   "type": "FeatureCollection",

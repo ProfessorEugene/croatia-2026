@@ -12,6 +12,8 @@ Arrivals into Split continue. Free time to settle in and explore Split's old tow
 
 ### Map
 
+[Download GeoJSON](../maps/09-11-Friday.geojson)
+
 ```geojson
 {
   "type": "FeatureCollection",

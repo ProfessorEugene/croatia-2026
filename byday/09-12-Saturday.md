@@ -16,6 +16,8 @@ Jakov's tip: for a Saturday night out, hit the Antique club, then move on to Boi
 
 ### Map
 
+[Download GeoJSON](../maps/09-12-Saturday.geojson)
+
 ```geojson
 {
   "type": "FeatureCollection",

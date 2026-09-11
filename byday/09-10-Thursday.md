@@ -10,6 +10,8 @@ First arrivals into Split.
 
 ### Map
 
+[Download GeoJSON](../maps/09-10-Thursday.geojson)
+
 ```geojson
 {
   "type": "FeatureCollection",

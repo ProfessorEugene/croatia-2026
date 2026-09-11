@@ -12,6 +12,8 @@ Explore Korčula Town, known as "Little Dubrovnik" for its medieval charm.
 
 ### Map
 
+[Download GeoJSON](../maps/09-14-Monday.geojson)
+
 ```geojson
 {
   "type": "FeatureCollection",

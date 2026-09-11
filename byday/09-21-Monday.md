@@ -16,6 +16,8 @@ Jakov's tip: definitely do a walk around the old town / city walls before you go
 
 ### Map
 
+[Download GeoJSON](../maps/09-21-Monday.geojson)
+
 ```geojson
 {
   "type": "FeatureCollection",

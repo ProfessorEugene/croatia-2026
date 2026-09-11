@@ -14,6 +14,8 @@ Continue the scenic drive to Dubrovnik (approx. 1 hour from Ston).
 
 ### Map
 
+[Download GeoJSON](../maps/09-19-Saturday.geojson)
+
 ```geojson
 {
   "type": "FeatureCollection",

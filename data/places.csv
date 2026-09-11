@@ -1,0 +1,24 @@
+id,part,type,name,address,lat,lon
+0,split,airport,SPU,"Cesta Dr. Franje Tuđmana 1270, 21217, Kaštel Štafilić, Croatia",43.536813258667934, 16.299014368526272
+1,split,hotel,Alex AirBnb,"Spinčićeva ul. 24, 21000, Split, Croatia",43.50171365154841,16.461704688970784
+2,split,hotel,Radisson Blu Resort & Spa,"Put Trstenika 19, 21000, Split, Croatia",43.50290348170675, 16.470145859955302
+3,split,hotel,Taras AirBnb,"Ul. Vlahe Bukovca 10, 21000, Split, Croatia",43.50311784486537, 16.448992691910835
+4,split,hotel,Anand AirBnb,"Cesta Mira 19, 21000, Split, Croatia",43.51048945349412, 16.477097078288235
+5,split,hotel,Kostiantyn AirBnb,"Ul. Petra Hektorovića 40, 21000, Split, Croatia",43.502959376819284, 16.456033632995045
+6,split,hotel,Design B&B Bacvice Arti,"Bijankinijeva ul. 11, 21000, Split, Croatia",43.50486229643073, 16.445982276213094
+7,split,hotel,Jakov Batcave,"Cesta Dr. Franje Tuđmana 1270, 21217, Kaštel Štafilić, Croatia",43.536813258667934, 16.299014368526272
+8,korčula,hotel,Taras & Anand AirBnb,"Cvjetno Naselje 31, 20260, Korčula, Croatia",42.96117204010059, 17.13042517653233
+9,korčula,hotel,Marko Polo Maradiso Hotel by Aminess,"Šetalište Frana Kršinića 33, 20260, Korčula, Croatia",42.95525109019522, 17.13790091846407
+10,korčula,hotel,San Teodoro,"Ul. Hrvatske Bratske Zajednice 6, 20260, Korčula, Croatia",42.960328170903566, 17.13464275050543
+11,orebić,hotel,Taras & Anand AirBnb,"Šetalište Kneza Domagoja 20250, Orebić, Croatia",42.97466756223899, 17.185833817061074
+12,orebić,hotel,Aminess Vival Grand Azur Hotel,"Šetalište, Ul. kralja Petra Krešimira IV 17, 20250, Orebić, Croatia",42.974866274261394, 17.161611533860263
+13,orebić,hotel,Apartments ELDA,"Ul. Bizarova 1, 20250, Orebić, Croatia",42.97448274672537, 17.183859591344135
+14,dubrovnik,hotel,Taras & Anand AirBnb,"Ul. branitelja Dubrovnika 32, 20000, Dubrovnik, Croatia",42.6444481697547, 18.10038867116406
+15,dubrovnik,hotel,Hotel Dubrovnik Palace,"Masarykov put 20, 20000, Dubrovnik, Croatia",42.6512690909202, 18.061007523963017
+16,dubrovnik,hotel,Sun Gardens Dubrovnik,"Na moru 1, 20235, Orašac, Croatia",42.69622247318735, 18.016574207422302
+19,korčula,hotel,Alex & Ana Airbnb,"Ul. Korčulanskih domobrana 52, 20260, Korčula, Croatia",42.9559791,17.1362170
+20,orebić,hotel,Bellevue Maradiso Casa by Aminess,"Sveti Križ, 20250, Orebić, Croatia",42.9746546,17.1657209
+21,dubrovnik,hotel,Alex & Ana Airbnb,"Ul. Natka Nodila 3, 20000, Dubrovnik, Croatia",42.6490175,18.0967536
+17,orebić,hotel,Peter Airbnb,"Fiskovićeva ul. 30, 20250, Orebić, Croatia",42.9808349,17.1807180
+18,dubrovnik,hotel,Hostel Petra Marina,"Obala Stjepana Radića 25, 20000, Dubrovnik, Croatia",42.6571417,18.0885194
+999,dubrovnik,airport,DBV,"Dobrota 24, 20213, Močići, Croatia",42.56071941282798, 18.261888541500394

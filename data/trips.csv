@@ -1,0 +1,21 @@
+groupName,departureTime,arrivalTime,fromPlaceId,toPlaceId,via,label
+Taras,N/A,2026-09-11 20:30,N/A,0,LX8438,arrival
+Taras,2026-09-22 08:40,N/A,999,N/A,FR2489,departure
+Anand,N/A,2026-09-12 11:15,N/A,0,,arrival
+Anand,2026-09-22 06:15,N/A,999,N/A,,departure
+Lenny,N/A,2026-09-11 14:15,N/A,0,OS611,arrival
+Lenny,2026-09-21 13:00,N/A,999,N/A,OS624,departure
+Eugene & Lydia,N/A,2026-09-12 14:10,N/A,0,SN3353,arrival
+Eugene & Lydia,2026-09-21,N/A,999,N/A,UA386,departure
+Nikolay,N/A,2026-09-12 14:15,N/A,0,,arrival
+Nikolay,2026-09-21 17:45,999,N/A,,departure
+Alex & Ana,N/A,2026-09-10 07:05,N/A,0,,arrival
+Kostiantyn & Tatiana,N/A,2026-09-11 22:50,N/A,0,,arrival
+Ken & Betsy,N/A,2026-09-12 23:10,N/A,0,,arrival
+Ken & Betsy,2026-09-21 11:30,N/A,999,N/A,,departure
+Vinay,N/A,2026-09-12 23:10,N/A,0,,arrival
+Vinay,2026-09-21 13:05,N/A,999,N/A,,departure
+Peter,N/A,2026-09-16 01:00,N/A,12,,arrival
+Peter,2026-09-22 01:00,N/A,999,N/A,,departure
+Josh,N/A,2026-09-16 01:00,N/A,12,,arrival
+Josh,2026-09-22 01:00,N/A,999,N/A,,departure

@@ -2,24 +2,205 @@
 
 ### Daily Overview
 
-Days 1-2: Split & Trogir. Pick up rental cars and explore the historic centers of Split and Trogir.
+Days 1–2: Split & Trogir. Pick up rental cars and explore the historic centers of Split and Trogir.
 
-* Jakov's tip: visit Klis Fortress on the way out of Split - a Game of Thrones filming location (besides Dubrovnik).
-* Dining: Pandora Greenbox in Split for its highly-rated plant-based menu.
+Dining: Pandora Greenbox in Split for its highly-rated plant-based menu.
+
+### Schedule
+
+_No scheduled events_
+
+### Map
+
+```geojson
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.470145859955302,
+          43.50290348170675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Eugene & Lydia Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-12",
+        "date-out": "2026-09-13",
+        "guest": "Eugene & Lydia",
+        "address": "Put Trstenika 19, 21000, Split, Croatia",
+        "marker-color": "#00ff19",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.448992691910835,
+          43.50311784486537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Taras Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-11",
+        "date-out": "2026-09-13",
+        "guest": "Taras",
+        "address": "Ul. Vlahe Bukovca 10, 21000, Split, Croatia",
+        "marker-color": "#faff00",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.477097078288235,
+          43.51048945349412
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Anand Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-12",
+        "date-out": "2026-09-13",
+        "guest": "Anand",
+        "address": "Cesta Mira 19, 21000, Split, Croatia",
+        "marker-color": "#ff7a00",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.470145859955302,
+          43.50290348170675
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Lenny Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-11",
+        "date-out": "2026-09-13",
+        "guest": "Lenny",
+        "address": "Put Trstenika 19, 21000, Split, Croatia",
+        "marker-color": "#ff00cc",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.448992691910835,
+          43.50311784486537
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Nikolay Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-12",
+        "date-out": "2026-09-13",
+        "guest": "Nikolay",
+        "address": "Ul. Vlahe Bukovca 10, 21000, Split, Croatia",
+        "marker-color": "#ff0000",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.461704688970784,
+          43.50171365154841
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Alex & Ana Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-10",
+        "date-out": "2026-09-13",
+        "guest": "Alex & Ana",
+        "address": "Spinčićeva ul. 24, 21000, Split, Croatia",
+        "marker-color": "#312E81",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.445982276213094,
+          43.50486229643073
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Ken & Betsy Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-12",
+        "date-out": "2026-09-13",
+        "guest": "Ken & Betsy",
+        "address": "Bijankinijeva ul. 11, 21000, Split, Croatia",
+        "marker-color": "#1c00ff",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "coordinates": [
+          16.456033632995045,
+          43.502959376819284
+        ],
+        "type": "Point"
+      },
+      "properties": {
+        "title": "Kostiantyn & Tatiana Hotel",
+        "type": "Hotel",
+        "date-in": "2026-09-11",
+        "date-out": "2026-09-13",
+        "guest": "Kostiantyn & Tatiana",
+        "address": "Ul. Petra Hektorovića 40, 21000, Split, Croatia",
+        "marker-color": "#00f7ff",
+        "marker-size": "medium",
+        "marker-symbol": "home"
+      }
+    }
+  ]
+}
+```
 
 ### Accommodations
 
-* Aleksandr & Anastasia - [AirBnb at Spinčićeva ul. 24](https://maps.app.goo.gl/viEgzCAuVvVCLM6B6)
-* Lenny - [Radisson Blu Resort & Spa, Split at Put Trstenika 19, 21000](https://maps.app.goo.gl/eZtypdLZ1qMayEGf8)
-* Taras - [AirBnb at Ul. Vlahe Bukovca 10, 21000](https://maps.app.goo.gl/oWotUdgwruWDeQEf9)
-* Kostiantyn & Tatiana - [AirBnb at Ul. Petra Hektorovića 40](https://maps.app.goo.gl/6tcYAYZsm24ZbZ9W9)
-* Anand - [AirBnb at Cesta Mira 19, 21000](https://www.google.com/maps/place/Cesta+Mira+19,+21000,+Split,+Croatia/@43.5102852,16.4747193,17z/data=!4m6!3m5!1s0x13355e3014b0c8a5:0x2f9a2a7ceb7eab4e!8m2!3d43.5104848!4d16.4770949!16s%2Fg%2F11fs_xk02_?entry=ttu&g_ep=EgoyMDI2MDgxMC4wIKXMDSoASAFQAw%3D%3D)
-* Eugene & Lydia - [Radisson Blu Resort & Spa, Split at Put Trstenika 19, 21000](https://maps.app.goo.gl/eZtypdLZ1qMayEGf8)
-* Nikolay - [AirBnb at Ul. Vlahe Bukovca 10](https://maps.app.goo.gl/oWotUdgwruWDeQEf9)
-* Ken & Betsy - [Design B&B Bacvice Arti](https://maps.app.goo.gl/8PQV5JYxs22T7o5U8)
-* Vinay - ??
-* Jakov - ??
+* Alex & Ana - [Alex AirBnb at Spinčićeva ul. 24, 21000, Split, Croatia](https://maps.google.com/maps?q=43.50171365154841,16.461704688970784)
+* Anand - [Anand AirBnb at Cesta Mira 19, 21000, Split, Croatia](https://maps.google.com/maps?q=43.51048945349412,16.477097078288235)
+* Eugene & Lydia - [Radisson Blu Resort & Spa at Put Trstenika 19, 21000, Split, Croatia](https://maps.google.com/maps?q=43.50290348170675,16.470145859955302)
+* Ken & Betsy - [Design B&B Bacvice Arti at Bijankinijeva ul. 11, 21000, Split, Croatia](https://maps.google.com/maps?q=43.50486229643073,16.445982276213094)
+* Kostiantyn & Tatiana - [Kostiantyn AirBnb at Ul. Petra Hektorovića 40, 21000, Split, Croatia](https://maps.google.com/maps?q=43.502959376819284,16.456033632995045)
+* Lenny - [Radisson Blu Resort & Spa at Put Trstenika 19, 21000, Split, Croatia](https://maps.google.com/maps?q=43.50290348170675,16.470145859955302)
+* Nikolay - [Taras AirBnb at Ul. Vlahe Bukovca 10, 21000, Split, Croatia](https://maps.google.com/maps?q=43.50311784486537,16.448992691910835)
+* Taras - [Taras AirBnb at Ul. Vlahe Bukovca 10, 21000, Split, Croatia](https://maps.google.com/maps?q=43.50311784486537,16.448992691910835)
 
 ### Transportation
 
-Rental car pickup in Split.
+* Eugene car (5 pax)
+* Taras car (4 pax)
+* Alex car (2 pax)

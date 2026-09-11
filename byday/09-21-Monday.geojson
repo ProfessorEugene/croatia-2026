@@ -1,22 +1,3 @@
-## Monday 2026-09-21
-
-### Daily Overview
-
-Day 10: Dubrovnik & Departure. Most of the group departs today.
-
-Jakov's tip: definitely do a walk around the old town / city walls before you go.
-
-### Schedule
-
-* 00:00 - Eugene & Lydia departs via flight UA386
-* 11:30 - Ken & Betsy departs
-* 13:00 - Lenny departs via flight OS624
-* 13:05 - Vinay departs
-* 17:45 - Nikolay departs via flight departure
-
-### Map
-
-```geojson
 {
   "type": "FeatureCollection",
   "features": [
@@ -85,16 +66,3 @@ Jakov's tip: definitely do a walk around the old town / city walls before you go
     }
   ]
 }
-```
-
-### Accommodations
-
-* Anand - [Taras & Anand AirBnb at Ul. branitelja Dubrovnika 32, 20000, Dubrovnik, Croatia](https://maps.google.com/maps?q=42.6444481697547,18.10038867116406)
-* Peter - [Hostel Petra Marina at Obala Stjepana Radića 25, 20000, Dubrovnik, Croatia](https://maps.google.com/maps?q=42.6571417,18.0885194)
-* Taras - [Taras & Anand AirBnb at Ul. branitelja Dubrovnika 32, 20000, Dubrovnik, Croatia](https://maps.google.com/maps?q=42.6444481697547,18.10038867116406)
-
-### Transportation
-
-* Eugene car (5 pax)
-* Taras car (4 pax)
-* Alex car (2 pax)

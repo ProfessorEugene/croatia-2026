@@ -8,6 +8,11 @@ Prapratno Beach near Ston — popular sandy spot with crystal-clear shallow wate
 
 Continue the scenic drive to Dubrovnik (approx. 1 hour from Ston).
 
+### Suggested Activities
+
+* Lokrum Island: 10-min ferry from Dubrovnik Old Town harbour (runs frequently in season). National park — peacocks roam freely. Botanical garden. Dead Sea salt lake for swimming. Benedictine monastery ruins. No overnight stays.
+* Ston stop — walk the medieval city walls of Ston (among the longest preserved walls in Europe). Try fresh oysters at Mali Ston restaurants — shellfish farmed right in the bay. Kapetanova kuća is the most well-known seafood spot in town.
+
 ### Schedule
 
 * 09:00 - Drive: Orebić → Ston → Dubrovnik

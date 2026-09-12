@@ -6,6 +6,12 @@ Pelješac Peninsula.
 
 Dining: Dalmatinac in Orebić — vegan pizza and a wide range of vegetarian dishes.
 
+### Suggested Activities
+
+* Ston day trip: 45-min drive east from Orebic. Walk the medieval walls (second-longest preserved walls in the world after the Great Wall of China). Fresh oysters at Mali Ston restaurants for lunch. Good preview of Sep 19's drive-through.
+* Duba Pelješka beach: remote pebble beach on the northern shore reachable by car. Very few tourists. Combine with Divna Beach if you want a full beach-hopping day.
+* Ocean kayaking — Korčula Adventures kayaking + snorkeling combo (€120/person; 4 hours). Pickup at Dalmatino tours agency next to Orebić ferry terminal. 5% discount when booked online. Book at korculaadventures.com.
+
 ### Schedule
 
 _No scheduled events_

@@ -6,6 +6,12 @@ Days 3–5: Korčula Island (3 nights). Departure from Split, car ferry to Vela 
 
 Explore Korčula Town, known as "Little Dubrovnik" for its medieval charm.
 
+### Suggested Activities
+
+* Korčula Old Town walking tour: compact walled medieval town with a fishbone street layout designed to channel sea breeze. Cathedral of St. Mark and the narrow lanes are highlights. Free to walk; some museums charge entry.
+* Moreška sword dance: traditional performance held Mondays and Thursdays in season at the Korčula Old Town walls. ~45-min show. Tickets available at the door or from local agencies in town.
+* Ocean kayaking — Lago di Korčula Half-Day Sea Kayak Tour by Korčula Outdoor Experience. 4–4.5 hours, ~4–6 nautical miles. Route circles islets of Badija and Vrnik, passing a Franciscan monastery and Roman-era quarries. Departs daily 09:00 from Spomen braniteljima Korcule 1943 (round square near pebble beach, Korčula Old Town). Confirm pricing at korcula-outdoor.com.
+
 ### Schedule
 
 * 17:00 - Car ferry: Split → Vela Luka (~3 hours)

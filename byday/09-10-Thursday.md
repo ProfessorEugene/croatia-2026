@@ -4,6 +4,12 @@
 
 First arrivals into Split.
 
+### Suggested Activities
+
+* Diocletian's Palace: the Old Town is built inside a 4th-century Roman emperor's retirement palace. Free to walk through at any hour — the basement halls (Vestibule) charge a small entry fee. Best explored in the evening when crowds thin.
+* Bačvice beach: Split's most popular city beach 10 min walk from the Old Town. Famous for picigin — a local shallow-water ball game played in small groups. Clean water and a lively beach bar scene.
+* Riva promenade: Split's palm-lined waterfront. Good spot for a first-evening walk and dinner. Most restaurants on the Riva itself are tourist-priced — step one block back for better value.
+
 ### Schedule
 
 * 07:05 - Alex & Ana arrives

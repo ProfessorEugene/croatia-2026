@@ -6,6 +6,11 @@ More arrivals into Split. Group now mostly assembled.
 
 Jakov's tip: for a Saturday night out, hit the Antique club, then move on to Boiler club.
 
+### Suggested Activities
+
+* Ocean kayaking — Red Adventures Southern Cliffs Kayaking Tour (€99). Full-day adventure routed away from tourist crowds — best for those wanting a more challenging day on the water. Book in advance: red-adventures.com/offer/southern-cliffs-kayaking/
+* Trogir day trip: UNESCO-listed medieval town 30 km northwest of Split (30-min drive). Cathedral of St. Lawrence and Kamerlengo Fortress are the highlights. Can be combined with Klis on the same day.
+
 ### Schedule
 
 * 11:15 - Anand arrives

@@ -6,6 +6,11 @@ Days 1–2: Split & Trogir. Pick up rental cars and explore the historic centers
 
 Dining: Pandora Greenbox in Split for its highly-rated plant-based menu.
 
+### Suggested Activities
+
+* Klis Fortress (30-min drive from Split): medieval hilltop fortress above Split and a Game of Thrones filming location (Meereen). Worth a stop on the way to Trogir.
+* Krka National Park: 90-min drive north of Split. Skradinski Buk waterfall system — one of the most impressive waterfall cascades in Europe. Buy tickets online in advance to avoid queues (krka.hr).
+
 ### Schedule
 
 _No scheduled events_

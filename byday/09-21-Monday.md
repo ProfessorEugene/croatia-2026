@@ -6,6 +6,11 @@ Day 10: Dubrovnik & Departure. Most of the group departs today.
 
 Jakov's tip: definitely do a walk around the old town / city walls before you go.
 
+### Suggested Activities
+
+* War Photo Limited: Dubrovnik gallery dedicated to war photography. Compact and impactful — about 1 hour. Located near Stradun (main street of Old Town). One of the most distinctive museums in the Adriatic.
+* Lokrum Island: last chance if not done on Sep 19 or 20. Ferry from Old Town harbour. Check last return ferry time — it stops running in the evening.
+
 ### Schedule
 
 * 00:00 - Eugene & Lydia departs via flight UA386

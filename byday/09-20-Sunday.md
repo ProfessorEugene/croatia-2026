@@ -4,6 +4,14 @@
 
 Day 9: Dubrovnik. Free day to explore the old town and surroundings.
 
+### Suggested Activities
+
+* Dubrovnik city walls walk: 2 km circuit atop the medieval walls. Best done early morning (opens 08:00) to avoid heat and crowds. Ticket ~€35 (includes Fort Lovrijenac). One of the most iconic walks in the Adriatic.
+* Srdj Hill cable car: 4-min gondola ride to 412m above Dubrovnik. Panoramic views over the Old Town and islands. Also driveable if you have the car — road up takes about 15 min.
+* Elaphiti Islands boat tour: full-day trip to Sipan and Lopud islands from Gruž harbour. Half-day options also available. Quieter and more local than the Dubrovnik Old Town.
+* Ocean kayaking — Adventure Dubrovnik Sea Kayaking and Snorkeling Tour. Meet at Brsalje ul. 5, 20000 Dubrovnik (Pile Tourist Information Center, outside Pile Gate). Arrive 20 min early. Look for the GREEN umbrella — there is a competing operator at the same spot with an orange umbrella.
+* Ocean kayaking — DSK Dubrovnik Sea Kayaking (from €35/person). 2-hour tour with snorkeling at Betina cave. Includes safety briefing and paddling instruction. Book at dubrovnikseakayaking.com.
+
 ### Schedule
 
 _No scheduled events_

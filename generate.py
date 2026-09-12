@@ -44,17 +44,26 @@ def maps_link(place):
     return f"https://maps.google.com/maps?q={lat},{lon}"
 
 
-def generate_markdown(d, active_hotels, arrivals, departures, day_transits, places, group_colors, overview="", geojson=None):
+def generate_markdown(d, active_hotels, arrivals, departures, day_transits, places, group_colors, day_activities=None, geojson=None):
     day_name = d.strftime("%A")
     filename_base = d.strftime("%m-%d-") + day_name
+    overview = (day_activities or {}).get("overview", [])
+    claude = (day_activities or {}).get("claude", [])
     lines = []
 
     lines.append(f"## {day_name} {d.isoformat()}")
     lines.append("")
     lines.append("### Daily Overview")
     lines.append("")
-    lines.append(overview if overview else "_TODO_")
+    lines.append("\n\n".join(overview) if overview else "_TODO_")
     lines.append("")
+
+    if claude:
+        lines.append("### Suggested Activities")
+        lines.append("")
+        for item in claude:
+            lines.append(f"* {item}")
+        lines.append("")
 
     lines.append("### Schedule")
     lines.append("")
@@ -139,7 +148,14 @@ def main():
     hotels = load_csv(f"{DATA_DIR}/hotels.csv")
     trips = load_csv(f"{DATA_DIR}/trips.csv")
     transits = load_csv(f"{DATA_DIR}/transits.csv")
-    activities = {row["date"]: row["overview"] for row in load_csv(f"{DATA_DIR}/activities.csv")}
+    activities = {}
+    for row in load_csv(f"{DATA_DIR}/activities.csv"):
+        d = row["date"]
+        author = row.get("author", "").strip().lower()
+        if d not in activities:
+            activities[d] = {"overview": [], "claude": []}
+        key = "claude" if author == "claude" else "overview"
+        activities[d][key].append(row["overview"])
 
     # Collect all dates that need files
     all_dates = set()
@@ -184,9 +200,9 @@ def main():
             if date.fromisoformat(t["date"]) == d
         ]
 
-        overview = activities.get(d.isoformat(), "")
+        day_activities = activities.get(d.isoformat(), {})
         geojson = generate_geojson(d, active_hotels, places, group_colors)
-        md = generate_markdown(d, active_hotels, arrivals, departures, day_transits, places, group_colors, overview, geojson)
+        md = generate_markdown(d, active_hotels, arrivals, departures, day_transits, places, group_colors, day_activities, geojson)
 
         with open(f"{OUTPUT_DIR}/{filename_base}.md", "w", encoding="utf-8") as f:
             f.write(md)

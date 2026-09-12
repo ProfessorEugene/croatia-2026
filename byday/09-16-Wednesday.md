@@ -6,6 +6,12 @@ Days 6–8: Pelješac Peninsula (3 nights). Short ferry hop from Korčula (Domin
 
 Consider basing at Aminess Bellevue Village for beach access, or a quiet guesthouse in Dingač-Potočine for a more remote feel.
 
+### Suggested Activities
+
+* Franciscan Monastery of Our Lady of the Angels: 15th-century monastery on the hillside above Orebic with panoramic views over the Pelješac channel and Korčula island. 20-min uphill walk from town center.
+* Trstenica Beach: fine-pebble beach 500 m from Orebic town center. Clear water with views across to Korčula. Good option for the afternoon after arriving from the ferry.
+* Ferry logistics — Jadrolinija Line 634 (Orebić → Dominče). ~15–20 min crossing. Dominče terminal is 3 km from Korčula Old Town — not the Old Town harbour. 20 departures/day through Sep 27. Tickets are open-dated (valid any sailing on the date). Arrive ~45 min early with the car.
+
 ### Schedule
 
 * 01:00 - Peter arrives

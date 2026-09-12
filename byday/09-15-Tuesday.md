@@ -4,6 +4,13 @@
 
 Korčula. Drive to Lumbarda to experience the only sandy beach on the island, Vela Pržina.
 
+### Suggested Activities
+
+* Grk wine tasting in Lumbarda: Lumbarda is home to Grk — a white grape variety grown nowhere else in the world. Winery Bire is the most accessible; several family cellars welcome walk-in tastings. 6 km drive from Korčula Old Town.
+* Bicycle rental: rent bikes in Korčula Town for a half-day loop on the island's quiet roads. Several rental shops near the Old Town gate. Relatively flat along the coast; hilly if you go inland.
+* Sunset kayaking — Lumbarda Sunset Kayaking Experience by Spirit of Korkyra. 3.5 hours, max 8 people. Departs Tatinja Bay, Lumbarda. Pickup from Korčula Old Town bus station 20 min before start. Book at spiritofkorkyra.com.
+* Ocean kayaking — Red Adventures Sea Kayak Korčula (€50/person). Departs Tatinja Bay (Lumbarda). Explores the Korčula archipelago including Badija Island and its Franciscan monastery. Good alternative if the Lago di Korčula tour is full. Book at red-adventures.com/offer/sea-kayak-korcula/
+
 ### Schedule
 
 _No scheduled events_

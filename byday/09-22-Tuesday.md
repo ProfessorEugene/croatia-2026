@@ -4,6 +4,10 @@
 
 Final departures from Dubrovnik.
 
+### Suggested Activities
+
+* Dubrovnik Airport is 20 km south of the Old Town. Allow 30–45 min by car. Return rental cars directly at the airport terminal lots — off-airport lots add significant transfer time.
+
 ### Schedule
 
 * 01:00 - Peter departs

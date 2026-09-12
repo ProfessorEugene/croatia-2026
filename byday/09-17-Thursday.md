@@ -6,6 +6,12 @@ Pelješac Peninsula. Beaches: Trstenica Beach in Orebić (fine sand and pebbles)
 
 Wine: Tour the Dingač wine-growing hills. Matusko winery is highly recommended (booking required, cash only).
 
+### Suggested Activities
+
+* Divna Beach: secluded pebble cove on the northern shore of the Pelješac Peninsula. Accessible by car (last stretch is a dirt road) or small boat from Orebic. Worth the extra effort for the seclusion.
+* Hiking — St. Elijah peak (Sveti Ilija): the landmark summit of the Pelješac Peninsula. 6 official trails totalling 39 km across the peninsula. Check current trail maps at visitorebic-croatia.hr/outdoor/hiking/ before setting out.
+* Wine — Dingač wine road scenic drive. Croatia's most celebrated red wine appellation. Matusko Winery is the most recommended stop (booking required; cash only). Also worth exploring the neighbouring Postup appellation. Half-day drive through dramatic hillside vineyards.
+
 ### Schedule
 
 _No scheduled events_

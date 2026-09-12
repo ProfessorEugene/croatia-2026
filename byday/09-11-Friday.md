@@ -4,6 +4,12 @@
 
 Arrivals into Split continue. Free time to settle in and explore Split's old town / Riva waterfront.
 
+### Suggested Activities
+
+* Ocean kayaking — Red Adventures Sea Kayak Split (from €50). Half-day circuit around Marjan Hill with cliff jumping options. Departs near Split city center. Book in advance: red-adventures.com/offer/sea-kayak-split/
+* Marjan Hill: forested hill above Split with well-marked hiking and cycling paths. 30-min walk from Old Town to the summit viewpoint at Telegrin (178m) with views over Brač and Hvar islands.
+* Ivan Mestrovic Gallery: former home and studio of Croatia's most celebrated sculptor. Extensive collection of bronzes and marble works. 3 km west of Old Town — easier to drive than walk.
+
 ### Schedule
 
 * 14:15 - Lenny arrives via flight OS611
